@@ -2,6 +2,7 @@
 
 
 ### TODO
+- WRITE TESTS --> figure out how to write tests against this project with rspec. NOW NOW NOW.
 - get json input to database then output to something working, (begining of an API server)
 - convert away from slim to
    - markdown
